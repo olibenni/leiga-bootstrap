@@ -21,8 +21,8 @@ With IntelliJ:
 With maven:
 
     Download and install maven
-  	https://maven.apache.org/download.cgi
-  	https://maven.apache.org/install.html
+    https://maven.apache.org/download.cgi
+    https://maven.apache.org/install.html
     
     in project folder write:
     mvn package
@@ -34,8 +34,9 @@ With maven:
 Go to http://localhost:8080/
 
 Try:
-http://localhost:8080/
-http://localhost:8080/service
-http://localhost:8080/service/hello/yourname
-http://localhost:8080/service/user?name=yourname
-http://localhost:8080/service/json
+
+    http://localhost:8080/
+    http://localhost:8080/service
+    http://localhost:8080/service/hello/yourname
+    http://localhost:8080/service/user?name=yourname
+    http://localhost:8080/service/json
