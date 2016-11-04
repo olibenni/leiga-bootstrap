@@ -1,0 +1,23 @@
+## User-specific stuff:
+.idea/
+*.iml
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Build files
+target/
+
+
+
+
+## Web app
+## Packages & Build files
+src/main/webapp/bower_components/
+src/main/webapp/node_modules/
+src/main/webapp/build/
+src/main/webapp/build-lib/
+
+## Logs
+src/main/webapp/npm-debug.log
